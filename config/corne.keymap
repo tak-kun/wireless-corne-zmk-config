@@ -63,7 +63,7 @@
         layer_3 {
             bindings = <
 &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &rgb_ug RGB_TOG
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &rgb_ug RGB_BRI
+&kp T   &kp E   &kp S   &kp T   &trans  &trans    &trans  &trans  &trans  &trans  &trans  &rgb_ug RGB_BRI
 &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &rgb_ug RGB_BRD
                         &trans  &trans  &trans    &trans  &trans  &trans
             >;
